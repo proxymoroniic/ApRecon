@@ -1,11 +1,12 @@
 # ApRecon
- Aprecon is a Python based automation for static analysis and enumeration of andriod apk for finding 
-  -IP addreses
-  -S3 buckets
-  -S3 websites
-  -RCE references
-  -SQL databases
-  
+ Aprecon is a Python based automation for static analysis and enumeration of andriod apk for finding
+ 
+  * IP addreses
+  * S3 buckets
+  * S3 websites
+  * RCE references
+  * SQL databases
+  * Sockets
 
 ## Installation
 
